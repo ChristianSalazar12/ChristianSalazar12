@@ -140,8 +140,8 @@
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-cristianyamith12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/crs_christian20/"><img src="https://img.shields.io/badge/-@crs_christian20-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@Christian%20Salazar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
 
 <br>
